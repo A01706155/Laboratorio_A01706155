@@ -4,3 +4,4 @@
 Los participantes obtuvieron los siguientes roles:
 * Flavio - Participante
 * Diego - Supervisor
+* Manolo - Líder
